@@ -1,3 +1,7 @@
+project.ext {
+    excludeAppGlideModule = true
+}
+
 buildscript {
     repositories {
         jcenter()
